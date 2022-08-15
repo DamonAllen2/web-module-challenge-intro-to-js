@@ -20,7 +20,13 @@ Do the following:
    HINT: no function required
 */
 
-
+let votingAge = '18';
+if (votingAge>=18) {
+  console.log(true);
+}
+else { 
+console.log(false);
+}
 
 /*
 Task 1b - Values (not auto tested)
@@ -34,8 +40,8 @@ Do the following:
    HINT: no function required
 */
 
-
-
+const itemOne = '17';
+const itemTwo = '24';
 
 
 /*

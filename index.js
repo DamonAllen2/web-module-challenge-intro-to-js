@@ -75,8 +75,8 @@ Do the following:
    3. Multiply a and b and return the answer
 */
 
-function multiply(2, 4){
-  
+function multiply(a, b){
+  return a*b;
 }
 
 
@@ -91,10 +91,11 @@ Do the following:
  3. Return the newly calculated age
 */
 
-function dogYears(/*add your code here*/){
-  /*add your code here*/
+function dogYears(age){
+  let dogAge = 7*age;
+  return dogAge
 }
-
+dogYears(7)
 
 
 /*🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀 Task 3 🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀*/

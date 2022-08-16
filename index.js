@@ -61,7 +61,9 @@ Do the following:
    HINT: look up the Number method
 */
 
-
+let numberOne = '1999';
+Number(numberOne);
+console.log(Number(numberOne));
 
 
 /*

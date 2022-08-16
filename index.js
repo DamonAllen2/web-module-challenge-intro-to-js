@@ -93,7 +93,7 @@ Do the following:
 
 function dogYears(age){
   let dogAge = 7*age;
-  return dogAge
+  return dogAge;
 }
 dogYears(7)
 

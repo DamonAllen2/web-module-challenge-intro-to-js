@@ -40,9 +40,15 @@ Do the following:
    HINT: no function required
 */
 
-const itemOne = '17';
-const itemTwo = '24';
-
+let itemOne = '17';
+let itemTwo = '24';
+if (itemOne >= itemTwo) {
+  console.log('True');
+}
+else {
+  console.log('false');
+}
+console.log(itemOne);
 
 /*
 Task 1c - Convert Strings to Numbers (not auto tested)

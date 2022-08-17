@@ -241,7 +241,7 @@ Using the feet function below do the following:
 */
 
 function feet(cm){
-  let feet = (30.48*cm)
+  let feet = (30.48/cm)
   return feet
 }
 
